@@ -1,0 +1,6 @@
+<ca = 'jazzjack.com'>
+[ca:article]
+- ca:headline (string)
+mandatory
+- ca:body (string)
+mandatory

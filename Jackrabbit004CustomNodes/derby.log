@@ -1,0 +1,48 @@
+----------------------------------------------------------------
+Sun Feb 17 21:22:35 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-fce9-00f3-00000d0792a8 
+on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/version/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12
+user.dir=/home/a/workspace-2019_01/Jackrabbit004CustomNodes
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-142-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 17 21:22:37 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cead00d8-0168-fce9-00f3-00000d0792a8 
+on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/workspaces/default/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12
+user.dir=/home/a/workspace-2019_01/Jackrabbit004CustomNodes
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-142-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 17 21:22:39 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f584c1a3-0168-fce9-00f3-00000d0792a8 
+on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/workspaces/security/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-8u191-b12-2ubuntu0.16.04.1-b12
+user.dir=/home/a/workspace-2019_01/Jackrabbit004CustomNodes
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-142-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 17 21:22:41 EET 2019:
+Shutting down instance cead00d8-0168-fce9-00f3-00000d0792a8 on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/workspaces/default/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Sun Feb 17 21:22:42 EET 2019:
+Shutting down instance f584c1a3-0168-fce9-00f3-00000d0792a8 on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/workspaces/security/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+----------------------------------------------------------------
+Sun Feb 17 21:22:42 EET 2019:
+Shutting down instance a816c00e-0168-fce9-00f3-00000d0792a8 on database directory /home/a/workspace-2019_01/Jackrabbit004CustomNodes/repository/version/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 

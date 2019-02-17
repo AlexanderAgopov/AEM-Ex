@@ -1,0 +1,8 @@
+<ca = 'sajazzjack.com'>
+[ca:articledv]
+- ca:headline (string)
+= 'Headline Goes Here'
+mandatory autocreated
+- ca:body (string)
+= 'Body Goes Here'
+mandatory autocreated
