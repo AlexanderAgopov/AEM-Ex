@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Sun Feb 17 12:37:00 EET 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-fb07-d112-00000d1b0078 
+Sun Feb 17 18:23:05 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0168-fc44-ad32-00000d1c11b8 
 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/version/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -12,8 +12,8 @@ os.version=4.4.0-142-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Feb 17 12:37:00 EET 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 888c4022-0168-fb07-d112-00000d1b0078 
+Sun Feb 17 18:23:06 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 888c4022-0168-fc44-ad32-00000d1c11b8 
 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/default/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -25,8 +25,8 @@ os.version=4.4.0-142-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Feb 17 12:37:01 EET 2019:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6965c036-0168-fb07-d112-00000d1b0078 
+Sun Feb 17 18:23:06 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6965c036-0168-fc44-ad32-00000d1c11b8 
 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/security/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 Loaded from file:/home/a/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -38,11 +38,11 @@ os.version=4.4.0-142-generic
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Sun Feb 17 12:37:01 EET 2019:
-Shutting down instance 888c4022-0168-fb07-d112-00000d1b0078 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/default/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Sun Feb 17 18:23:07 EET 2019:
+Shutting down instance 888c4022-0168-fc44-ad32-00000d1c11b8 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/default/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 ----------------------------------------------------------------
-Sun Feb 17 12:37:01 EET 2019:
-Shutting down instance 6965c036-0168-fb07-d112-00000d1b0078 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/security/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Sun Feb 17 18:23:07 EET 2019:
+Shutting down instance 6965c036-0168-fc44-ad32-00000d1c11b8 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/workspaces/security/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
 ----------------------------------------------------------------
-Sun Feb 17 12:37:01 EET 2019:
-Shutting down instance a816c00e-0168-fb07-d112-00000d1b0078 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/version/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Sun Feb 17 18:23:07 EET 2019:
+Shutting down instance a816c00e-0168-fc44-ad32-00000d1c11b8 on database directory /home/a/workspace-2019_01/Jackrabbit003XML/repository/version/db with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
